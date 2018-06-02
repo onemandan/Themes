@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="BaseTheme.Light" parent="BaseTheme">
+        <item name="colorPrimary">@color/colorPrimaryThemeLight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkThemeLight</item>
+        <item name="colorAccent">@color/colorAccentThemeLight</item>
+        <item name="colorControlNormal">@color/colorAccentThemeLight</item>
+        <item name="colorControlActivated">@color/colorAccentThemeLight</item>
+        <item name="colorDivider">@color/colorDividerThemeLight</item>
+        <item name="colorWindow">@color/colorWindowBackgroundThemeLight</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/colorWindowBackgroundThemeLight</item>
+        <item name="android:textColorPrimary">@color/colorTextPrimaryThemeLight</item>
+        <item name="android:textColorSecondary">@color/colorTextSecondaryThemeLight</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDarkThemeLight</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkThemeLight</item>
+    </style>
+
+    <style name="BaseTheme.Dark" parent="BaseTheme">
+        <item name="colorPrimary">@color/colorPrimaryThemeDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkThemeDark</item>
+        <item name="colorAccent">@color/colorAccentThemeDark</item>
+        <item name="colorControlNormal">@color/colorAccentThemeDark</item>
+        <item name="colorControlActivated">@color/colorAccentThemeDark</item>
+        <item name="colorDivider">@color/colorDividerThemeDark</item>
+        <item name="colorWindow">@color/colorWindowBackgroundThemeDark</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/colorWindowBackgroundThemeDark</item>
+        <item name="android:textColorPrimary">@color/colorTextPrimaryThemeDark</item>
+        <item name="android:textColorSecondary">@color/colorTextSecondaryThemeDark</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDarkThemeDark</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkThemeDark</item>
+    </style>
+
+</resources>

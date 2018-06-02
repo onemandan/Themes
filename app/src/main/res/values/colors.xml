@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryThemeDark">#33333D</color>
+    <color name="colorPrimaryDarkThemeDark">#24242c</color>
+    <color name="colorAccentThemeDark">#058ED9</color>
+    <color name="colorWindowBackgroundThemeDark">#2f2f39</color>
+    <color name="colorTextPrimaryThemeDark">#FFFFFF</color>
+    <color name="colorTextSecondaryThemeDark">#5f5f66</color>
+    <color name="colorDividerThemeDark">#26262d</color>
+
+    <color name="colorPrimaryThemeLight">#FF5722</color>
+    <color name="colorPrimaryDarkThemeLight">#E64A19</color>
+    <color name="colorAccentThemeLight">#03A9F4</color>
+    <color name="colorWindowBackgroundThemeLight">#eeeeee</color>
+    <color name="colorTextPrimaryThemeLight">#212121</color>
+    <color name="colorTextSecondaryThemeLight">#757575</color>
+    <color name="colorDividerThemeLight">#BDBDBD</color>
+</resources>

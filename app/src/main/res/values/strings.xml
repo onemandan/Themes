@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Themes</string>
+
+    <string name="settings_theme">Dark Theme</string>
+    <string name="settings_theme_summary">Use the Dark Theme colour preset</string>
+
+    <string name="shared_preferences_theme_dark">hasxzbcvdf01janq</string>
+</resources>
